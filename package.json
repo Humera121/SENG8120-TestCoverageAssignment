@@ -1,0 +1,26 @@
+{
+  "name": "seng8120-modern-automated-testing-evaluating-for-test-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humera121/SENG8120-TestCoverageAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humera121/SENG8120-TestCoverageAssignment/issues"
+  },
+  "homepage": "https://github.com/Humera121/SENG8120-TestCoverageAssignment#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^30.0.0",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.8.3"
+  }
+}
