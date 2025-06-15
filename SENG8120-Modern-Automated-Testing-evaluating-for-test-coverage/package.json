@@ -3,10 +3,9 @@
   "version": "0.1.0",
   "description": "The main repository for SENG8120",
   "scripts": {
-    "start": "node ./dist/main.js",
-    "build": "tsc",
-    "test": "jest"
-  },
+  "test": "jest",
+  "coverage": "jest --coverage"
+},
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.13.1",
