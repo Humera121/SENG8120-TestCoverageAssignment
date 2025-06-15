@@ -1,1 +1,2 @@
-export { default } from "./paintRequiredCalculator";
+
+export { default as paintRequiredCalculator } from "./paintRequiredCalculator";
